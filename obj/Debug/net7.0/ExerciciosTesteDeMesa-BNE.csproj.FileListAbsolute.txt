@@ -1,0 +1,4 @@
+C:\Users\joaocosta\Documents\TesteDeMesa\ExerciciosTesteDeMesa-BNE\obj\Debug\net7.0\ExerciciosTesteDeMesa-BNE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaocosta\Documents\TesteDeMesa\ExerciciosTesteDeMesa-BNE\obj\Debug\net7.0\ExerciciosTesteDeMesa-BNE.AssemblyInfoInputs.cache
+C:\Users\joaocosta\Documents\TesteDeMesa\ExerciciosTesteDeMesa-BNE\obj\Debug\net7.0\ExerciciosTesteDeMesa-BNE.AssemblyInfo.cs
+C:\Users\joaocosta\Documents\TesteDeMesa\ExerciciosTesteDeMesa-BNE\obj\Debug\net7.0\ExerciciosTesteDeMesa-BNE.csproj.CoreCompileInputs.cache
