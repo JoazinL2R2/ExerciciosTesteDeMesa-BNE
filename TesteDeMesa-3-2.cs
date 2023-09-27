@@ -47,7 +47,7 @@ public class Metodo
       
       while(contador <= meses){
         ValorFinal = ValorInicial * Math.Pow(1 + Taxa,contador);
-        ValorFinal = ValorFinal * Math.Pow(1 + Taxa,                        diasRestantes / 30.0);
+        ValorFinal = ValorFinal * Math.Pow(1 + Taxa,diasRestantes / 30.0);
 
          
         Console.WriteLine($"|  {ValorFinal:C}  |   {contador}   |   {Taxa:P}     |");
