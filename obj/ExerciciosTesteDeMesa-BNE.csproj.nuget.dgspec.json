@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj": {}
+    "c:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj": {
+    "c:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj",
+        "projectUniqueName": "c:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj",
         "projectName": "ExerciciosTesteDeMesa-BNE",
-        "projectPath": "C:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj",
+        "projectPath": "c:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\ExerciciosTesteDeMesa-BNE.csproj",
         "packagesPath": "C:\\Users\\joaocosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\obj\\",
+        "outputPath": "c:\\Users\\joaocosta\\Documents\\TesteDeMesa\\ExerciciosTesteDeMesa-BNE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaocosta\\AppData\\Roaming\\NuGet\\NuGet.Config"
